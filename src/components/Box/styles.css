@@ -1,0 +1,19 @@
+.box {
+  background-color: #bfc5d0;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.box:active {
+  background-color: #cfd4dc;
+}
+
+p {
+  font-weight: bold;
+  line-height: normal;
+  font-size: 36px;
+}
